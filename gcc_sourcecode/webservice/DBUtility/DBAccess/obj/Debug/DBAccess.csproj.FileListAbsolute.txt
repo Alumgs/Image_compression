@@ -1,0 +1,11 @@
+D:\myfiles\NewProjects\微信小程序\后台程序\DBUtility\DBAccess\bin\Debug\DBAccess.dll
+D:\myfiles\NewProjects\微信小程序\后台程序\DBUtility\DBAccess\bin\Debug\DBAccess.pdb
+D:\myfiles\NewProjects\微信小程序\后台程序\DBUtility\DBAccess\obj\Debug\DBAccess.csprojResolveAssemblyReference.cache
+D:\myfiles\NewProjects\微信小程序\后台程序\DBUtility\DBAccess\obj\Debug\DBAccess.dll
+D:\myfiles\NewProjects\微信小程序\后台程序\DBUtility\DBAccess\obj\Debug\DBAccess.pdb
+E:\bysj\sourcecode\webservice\DBUtility\DBAccess\bin\Debug\DBAccess.dll
+E:\bysj\sourcecode\webservice\DBUtility\DBAccess\bin\Debug\DBAccess.pdb
+E:\bysj\sourcecode\webservice\DBUtility\DBAccess\obj\Debug\DBAccess.csprojAssemblyReference.cache
+E:\bysj\sourcecode\webservice\DBUtility\DBAccess\obj\Debug\DBAccess.csproj.CopyComplete
+E:\bysj\sourcecode\webservice\DBUtility\DBAccess\obj\Debug\DBAccess.dll
+E:\bysj\sourcecode\webservice\DBUtility\DBAccess\obj\Debug\DBAccess.pdb
